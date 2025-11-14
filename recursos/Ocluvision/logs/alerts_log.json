@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "type": "Oclusion-Reaparecido",
+    "timestamp": "20251114_054553",
+    "image_path": "captures/occlusion_alert_ID1_20251114_054553_0.jpg"
+  },
+  {
+    "id": "0",
+    "type": "oclusion-reaparecido",
+    "timestamp": "20251114_071316",
+    "image_path": "captures/occlusion_alert_ID0_20251114_071316_0.jpg"
+  }
+]
